@@ -1,6 +1,7 @@
 body {
-  padding: 150px;
+  padding: 50px;
   background-color: #effeef;
+  padding-bottom: 500px;
 }
 
 h1{
@@ -11,3 +12,4 @@ p{
   background-color: aqua;
   padding: 11px;
 }
+
